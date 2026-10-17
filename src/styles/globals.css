@@ -1,0 +1,8 @@
+/*
+
+  GLOBALS.CSS
+  → Responsável por toda a estilização e modularização via CSS do projeto.
+
+*/
+@import url('./fonts.css');
+@import url('./colors.css');

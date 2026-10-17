@@ -1,0 +1,1 @@
+export default () => <>Essa é a página de Cadastro</>;
